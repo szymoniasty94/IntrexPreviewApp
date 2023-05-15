@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrexPreviewApp", "IntrexPreviewApp\IntrexPreviewApp.csproj", "{C00C7410-622F-46E5-A544-3A5FB464C98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00C7410-622F-46E5-A544-3A5FB464C98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00C7410-622F-46E5-A544-3A5FB464C98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00C7410-622F-46E5-A544-3A5FB464C98C}.Debug|x64.ActiveCfg = Debug|x64
+		{C00C7410-622F-46E5-A544-3A5FB464C98C}.Debug|x64.Build.0 = Debug|x64
+		{C00C7410-622F-46E5-A544-3A5FB464C98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00C7410-622F-46E5-A544-3A5FB464C98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00C7410-622F-46E5-A544-3A5FB464C98C}.Release|x64.ActiveCfg = Release|x64
+		{C00C7410-622F-46E5-A544-3A5FB464C98C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58FF9186-47D9-4C3C-814B-D646262B393B}
+	EndGlobalSection
+EndGlobal
